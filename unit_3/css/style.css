@@ -1,0 +1,61 @@
+h1 {
+	font-size: 85px;
+	color: #000;
+
+}
+
+#header {
+	background: rgba(0,0,0);
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	border: 8px solid black;
+}
+
+h3 {
+	font-size: 13px;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-weight: normal;
+	text-transform: italic;
+	font-style: italic;
+
+}
+
+body {
+	text-align: center;
+	font-size: 22px;
+	background: url("http://68.media.tumblr.com/80529a019deea71688c088f4cc588afe/tumblr_nry4d5tHks1sftg6co1_1280.jpg");
+	background-size: cover;
+	color: #000;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	padding-left: 400px;
+	padding-right: 400px;
+}
+
+p {
+	color: #000;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+
+hr {
+	width: 200px;
+}
+
+#description {
+	background: rgba(0,0,0,.1);
+	padding-top: 5px;
+	padding-bottom: 50px;
+}
+
+address {
+	font-size: 15px;
+	font-weight: normal;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+
+ul {
+	color: #000;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	text-align: left;
+}
+

@@ -9,7 +9,7 @@ span {
 	font-weight: bold;
 	text-align: center;
 	letter-spacing: .35em;
-	font-size: 60px;
+	font-size: 50px;
 	color: #000;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 #two_column {
-	padding: 20px
+	padding: 20px;
 }
 
 

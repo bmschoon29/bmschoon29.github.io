@@ -29,7 +29,7 @@ nav a {
 } 
 
 a:hover {
-	outline: dotted black;
+	outline: solid black;
 }
 
 h2 {

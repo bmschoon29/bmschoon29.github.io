@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Josefin+Slab');
 
 .wrapper {
-	padding: 50px;	
+	padding: 10px;	
 }
 
 span {
 	font-family: 'Amatic SC', cursive;
 	font-weight: bold;
 	text-align: center;
-	letter-spacing: .35em;
-	font-size: 40px;
+	letter-spacing: .65em;
+	font-size: 65px;
 	color: #000;
 }
 
@@ -22,9 +22,8 @@ nav a {
 	display: inline;
 	font-family: 'Josefin Slab', serif;
 	text-decoration: none;
-	color: #000;
 	margin: 40px;
-	padding: 10px;
+	padding: 5px;
 	text-transform: uppercase;
 } 
 
@@ -35,6 +34,7 @@ a:hover {
 h2 {
 	font-size: 36px;
 	text-transform: uppercase;
+	color: #000;
 	text-align: center;
 	line-height: 1em;
 	font-family: 'Amatic SC', cursive;
@@ -43,6 +43,7 @@ h2 {
 h3 {
 	font-size: 36px;
 	font-family: 'Amatic SC', cursive;
+	color: #FFF;
 	line-height: 1.5em;
 	text-align: center;
 }
@@ -53,11 +54,13 @@ body {
 	font-size: 20px;
 	line-height: 1.5em;
 	margin: 1.5em;
+	padding: 5px;
 	color: #000;
 }
 
 #two_column {
 	padding: 20px;
+	margin: 30px;
 }
 
 
@@ -69,7 +72,7 @@ body {
 	float: left;
 	padding: 20px;
 	margin-left: 225px;
-	margin-top: 30px;
+	margin-top: 10px;
 	width: 40%;
 }
 
@@ -81,7 +84,7 @@ body {
 	float: right;
 	padding: 20px;
 	margin-right: 225px;
-	margin-top: 30px;
+	margin-top: 10px;
 	width: 20%;
 	line-height: 1.5em;
 	text-align: center;

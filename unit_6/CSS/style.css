@@ -9,7 +9,7 @@ span {
 	font-weight: bold;
 	text-align: center;
 	letter-spacing: .35em;
-	font-size: 50px;
+	font-size: 40px;
 	color: #000;
 }
 
@@ -29,7 +29,7 @@ nav a {
 } 
 
 a:hover {
-	outline: dotted black;
+	outline: solid black;
 }
 
 h2 {
